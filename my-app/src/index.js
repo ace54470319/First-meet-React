@@ -4,9 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import Clock from './Chapter_04/Clock';
-import CommentList from './Chapter_05/CommentList';
-import NotificationList from './Chapter_06/NotificationList'
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
